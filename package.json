@@ -1,0 +1,12 @@
+{
+  "name": "sprite-sheetify",
+  "version": "1.0.0",
+  "description": "util for combining folder of images to an ordered spritesheet",
+  "main": "sheetify.js",
+  "keywords": [],
+  "author": "tutte2k",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "7.0.0"
+  }
+}
